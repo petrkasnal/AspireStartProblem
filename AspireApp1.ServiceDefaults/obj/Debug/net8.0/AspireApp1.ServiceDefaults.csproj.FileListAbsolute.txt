@@ -1,0 +1,12 @@
+C:\user\workspace\AspireApp1\AspireApp1.ServiceDefaults\bin\Debug\net8.0\AspireApp1.ServiceDefaults.deps.json
+C:\user\workspace\AspireApp1\AspireApp1.ServiceDefaults\bin\Debug\net8.0\AspireApp1.ServiceDefaults.dll
+C:\user\workspace\AspireApp1\AspireApp1.ServiceDefaults\bin\Debug\net8.0\AspireApp1.ServiceDefaults.pdb
+C:\user\workspace\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.csproj.AssemblyReference.cache
+C:\user\workspace\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\user\workspace\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.AssemblyInfoInputs.cache
+C:\user\workspace\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.AssemblyInfo.cs
+C:\user\workspace\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\user\workspace\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.dll
+C:\user\workspace\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\refint\AspireApp1.ServiceDefaults.dll
+C:\user\workspace\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\AspireApp1.ServiceDefaults.pdb
+C:\user\workspace\AspireApp1\AspireApp1.ServiceDefaults\obj\Debug\net8.0\ref\AspireApp1.ServiceDefaults.dll
